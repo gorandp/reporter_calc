@@ -1,1 +1,1 @@
-git+ssh://git@github.com/gorandp/very_bad_calculator.git
+git+ssh://git@github.com/gorandp/very_bad_calculator.git@1.0.1
